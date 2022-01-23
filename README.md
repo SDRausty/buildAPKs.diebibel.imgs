@@ -1,7 +1,7 @@
 # [buildAPKs.diebibel](https://github.com/SDRausty/buildAPKs.diebibel)
 # [buildAPKs.diebibel](https://sdrausty.github.io/buildAPKs.diebibel)
 
-wip20220121
+wip20220122
 
 Android APK Die Bibel sources that build in Termux on Amazon Fire, Android and Chromebook!
 
